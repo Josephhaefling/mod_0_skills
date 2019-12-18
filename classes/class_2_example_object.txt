@@ -1,4 +1,4 @@
-host
+host: Brett
 
 currentWait: 15
 numTablesAvailable: 10
