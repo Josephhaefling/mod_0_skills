@@ -1,0 +1,11 @@
+host
+
+currentWait: 15
+numTablesAvailable: 10
+numBuzzers: 5
+seatOptions: ["bar", "patio" "indoors"]
+
+howLongIsWait 15
+sectionFull: ["bar", "patio"]
+iWillWait: 5 - 1 = 4
+seatCustomer 10 - 1 = 9
