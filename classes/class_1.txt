@@ -1,0 +1,11 @@
+Bar Tender
+
+name:(string)
+happyHour: (boolean)
+drinksOnTap: (array ["strings"])
+drinkSpecials: (array ["strings"])
+
+introduceSelf: (prints "I am name(string) and I'll be your bar tender")
+isHappyHour: (changes happyHour attribute to true/false)
+informOfSpecials: (prints the specials array to the console)
+whatDoYouHave: (prints drinksOnTap array)
