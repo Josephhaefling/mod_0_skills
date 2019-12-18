@@ -1,0 +1,11 @@
+host
+
+currentWait: (integer)
+numTablesAvailable: (integer)
+numBuzzers: (integer)
+seatOptions: (array ["string"])
+
+howLongIsWait (prints currentWait to console)
+chooseSeatOption: (removes option from seatOption array)
+iWillWait: (subtracts 1 from numBuzzer)
+seatCustomer (subtracts 1 from numTablesAvailable)
