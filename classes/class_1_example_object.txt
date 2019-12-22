@@ -3,9 +3,9 @@ Bar Tender: Grace
 name: "Grace"
 happyHour: false
 drinksOnTap: ["Coors", "PBR", "Bud Light", "Natural Light"]
-drinkSpecials: "two for one Coors"
+drinkSpecial: "two for one Coors"
 
 introduceSelf: "I am Grace and I'll be your bar tender"
-isHappyHour: true
+toggleHappyHour: true
 informOfSpecials: two for one Coors
 whatDoYouHave: Coors, PBR, Bud Light, Natural Light
